@@ -283,5 +283,4 @@ POST /api/courses
 ---
 
 ## 📄 License
-
-MIT
+Cerebro AI
