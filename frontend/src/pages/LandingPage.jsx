@@ -62,7 +62,7 @@ export default function LandingPage() {
             <div className="flex items-center gap-4">
               <Link to="/courses">
                 <Button variant="ghost" className="text-muted-foreground hover:text-foreground" data-testid="nav-my-courses">
-                  My Courses
+                  My Courses - Mobile View
                 </Button>
               </Link>
               <Link to="/create">
